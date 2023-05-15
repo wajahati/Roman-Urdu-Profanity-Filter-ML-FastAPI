@@ -12,5 +12,3 @@ class Profanity(BaseModel):
 class Price(BaseModel):
     title: str 
     description: str 
-    
-    

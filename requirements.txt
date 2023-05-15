@@ -1,7 +1,4 @@
-nltk
-Keras-Preprocessing
-tensorflow-cpu
-openai
+emoji
 fastapi
 uvicorn
 gunicorn==19.9.0

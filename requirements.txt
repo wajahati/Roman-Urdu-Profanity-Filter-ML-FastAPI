@@ -1,3 +1,4 @@
+scikit-learn
 emoji
 sklearn
 fastapi
